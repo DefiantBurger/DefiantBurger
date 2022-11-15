@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![DefiantBurger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefiantBurger)](https://github.com/anuraghazra/github-readme-stats)
+[![DefiantBurger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![DefiantBurger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DefiantBurger/DefiantBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
