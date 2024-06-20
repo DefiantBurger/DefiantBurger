@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Joseph Cicalese (aka DefiantBurger)
+### Hi there 👋 I'm Joseph Cicalese
+
+I'm currently a student in the UW-Madison College of Engineering working towards a Bachelor's degree in Computer Engineering
 
 I am a big fan of Python, but I also know Java, C, C++, C#, Go, JavaScript, and the most impressive of all Scratch!
 I am not very good at frontend design, but I love backend design and DevOps/Cybersecurity style work.
