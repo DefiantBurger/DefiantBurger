@@ -2,7 +2,7 @@
 
 I'm currently a student in the UW-Madison College of Engineering (Class of 2028) working towards a Bachelor's degree in Computer Engineering.
 
-I am a big fan of Python, but I also know Java, C, C++, C#, Go, JavaScript, and the most impressive of all Scratch!
+I am a big fan of Python, but I also know Java, C++, JavaScript, Rust, and the most impressive of all Scratch!
 I am not very good at frontend design, but I love backend design and DevOps/Cybersecurity style work.
 
 I created the Main Line Math Project website: https://www.mainlinemathproject.org/ and am currently working on a website for JBallBasketball
