@@ -7,9 +7,9 @@ I am not very good at frontend design, but I love backend design and DevOps/Cybe
 
 I created the Main Line Math Project website: https://www.mainlinemathproject.org/ and am currently working on a website for JBallBasketball
 
-[![DefiantBurger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![DefiantBurger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![DefiantBurger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![DefiantBurger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefiantBurger&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **DefiantBurger/DefiantBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
